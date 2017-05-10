@@ -1,0 +1,33 @@
+<?xml version = "1.0" ?>
+<department id="developers">
+    <emplloyee id="1">
+        <name>Misha</name>
+        <salary>8000</salary>
+        <adress>
+            <city>Kiev</city>
+            <street>Getmana</street>
+            <buildNum>8</buildNum>
+            <flatNumb>22</flatNumb>
+        </adress>
+    </emplloyee>
+    <emplloyee id="2">
+        <name>Petro</name>
+        <salary>7000</salary>
+        <adress>
+            <city>Kiev</city>
+            <street>Peremogy</street>
+            <buildNum>6</buildNum>
+            <flatNumb>2</flatNumb>
+        </adress>
+    </emplloyee>
+    <emplloyee id="3">
+        <name>Olena</name>
+        <salary>7000</salary>
+        <adress>
+            <city>Kiev</city>
+            <street>Garmatna</street>
+            <buildNum>20</buildNum>
+            <flatNumb>20</flatNumb>
+        </adress>
+    </emplloyee>
+</department>
